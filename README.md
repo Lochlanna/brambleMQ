@@ -1,0 +1,1 @@
+A fast hybrid embedded/network message broker
